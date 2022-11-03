@@ -1,16 +1,19 @@
-### Hi there 👋
+# 💫 Sobre mim:
+Olá, sou Bruno resido em Buriti bravo -MA , sou acadêmico de engenharia de software<br>e além da faculdade, curso outras formações, estou me profissionalizando em desenvolvimento<br>web, onde desejo atuar em inicio de carreira como desenvolvedor.<br><br>Atualmente eu não trabalho na área, porém, dedico-me diariamente, estudando e aperfeiçoado<br>minha técnica colocando em pratica tudo que já aprendi, pra está a cada dia mais próximo dos meu objetivo.<br><br>Me disponibilizo a está sempre cooperando com a comunidade, seja ajudando<br>a resolver algum bug ou na construção de alguma funcionalidade.<br><br>Peço também sua ajuda na resolução de meus projetos, pois a comunidade de progamação<br>tem sido, bastante acolhedora, e vejo a cada dia pessoas se ajudando e isso é sensacional!<br><br>Estou apredendo atualmente JavaScript , já sei do basico, porém javascript é uma linguagem ampla<br>e precisa de muito estudo e muita pratica.<br><br>Aas próximas tecnologias que desejo aprender é ,Boostrap, React , Ângular e tudo que compõe<br>o desenvolvimento web profissional e de qualidade.<br><br>Curiosidade sobre mim, não sou uma pessoa inteligente, meu diferencial está na minha diciplina,<br>persistencia e dedicação, as vezes demoro dias, semanas e mês para aprender uma nova tecnologia,<br>mas tenho sempre elevado o nivel, da forma que venho seguido.
 
-<!--
-**BrunoFrontx/BrunoFrontx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tecnologias:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 Estatistica Github:
+![](https://github-readme-stats.vercel.app/api?username=BrunoFrontx&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BrunoFrontx&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFrontx&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Frase Charles Babbage
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BrunoFrontx&icon=6&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
