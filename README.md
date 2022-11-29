@@ -1,5 +1,18 @@
 # 💫 Sobre mim:
-Olá, sou Bruno resido em Buriti bravo -MA , sou acadêmico de engenharia de software<br>e além da faculdade, curso outras formações, estou me profissionalizando em desenvolvimento<br>web, onde desejo atuar em inicio de carreira como desenvolvedor.<br><br>Atualmente eu não trabalho na área, porém, dedico-me diariamente, estudando e aperfeiçoado<br>minha técnica colocando em pratica tudo que já aprendi, pra está a cada dia mais próximo dos meu objetivo.<br><br>Me disponibilizo a está sempre cooperando com a comunidade, seja ajudando<br>a resolver algum bug ou na construção de alguma funcionalidade.<br><br>Peço também sua ajuda na resolução de meus projetos, pois a comunidade de progamação<br>tem sido, bastante acolhedora, e vejo a cada dia pessoas se ajudando e isso é sensacional!<br><br>Estou apredendo atualmente JavaScript , já sei do basico, porém javascript é uma linguagem ampla<br>e precisa de muito estudo e muita pratica.<br><br>Aas próximas tecnologias que desejo aprender é ,Boostrap, React , Ângular e tudo que compõe<br>o desenvolvimento web profissional e de qualidade.<br><br>Curiosidade sobre mim, não sou uma pessoa inteligente, meu diferencial está na minha diciplina,<br>persistencia e dedicação, as vezes demoro dias, semanas e mês para aprender uma nova tecnologia,<br>mas tenho sempre elevado o nivel, da forma que venho seguido.
+Desenvolvedor front-end, acadêmico de engenharia de software.
+Dominando as tecnologias mais demandas pelo mercado de front-end.
+ Html , Css (frameworks: Tailwind, boostrap5 ) JavasSript, TypeScript , React, next.js, Sass, Ux,UI, figma.
+ Atualmente tenho Inglês intermediário, com facilidade no pronunciamento, leitura e ao ouvir.
+ Admiro e trabalho com metodologia Ágeis, já trabalhei com a framework Scrum.
+ Utilizo Kanban , em meus estudos.
+ Trabalhei com diagramas de caso de uso, diagramas de classes.
+ Horas vagas, curto tocar violão, pedalar na bike.
+ E sempre buscando evoluir a cada dia!
+
+---------------------------------‐-----------------------------------------
+english translation: 
+
+ Front-end developer, software engineering academic. Mastering the technologies most demanded by the front-end market. Html , Css (frameworks: Tailwind, boostrap5 ) JavasScript, TypeScript , React, next.js, Sass, Ux,UI, figma. Currently I have intermediate English, with ease in pronunciation, reading and listening. I admire and work with Agile methodology, I have already worked with a Scrum framework. I use Kanban in my studies. I worked with use case diagrams, class diagrams. In my spare time, I enjoy playing the guitar, riding my bike. And always looking to evolve every day!
 
 
 # 💻 Tecnologias:
